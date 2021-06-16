@@ -1,2 +1,2 @@
 # Test
-Test Rapo
+Test Rapo for git commands demonstration 
